@@ -1,5 +1,4 @@
-This project is a web application that utilizes the Django framework and Tailwind CSS to create a responsive and visually appealing user interface. The application is designed to showcase various programming challenges and their solutions, providing a platform for users to learn and practice their coding skills. The project also includes a virtual environment setup and detailed instructions for running the application.
-
+This project is a live example of how Django and Tailwind CSS can be used together to create dynamic and visually appealing web applications. It's a great resource for learning how to integrate these technologies and generate styles for your projects. The setup guide includes detailed instructions for setting up a virtual environment and running the application.
 
 ## Steps to run this project
 
